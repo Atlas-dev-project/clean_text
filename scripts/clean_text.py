@@ -6,7 +6,6 @@ import sys
 # Add the base directory to the PYTHONPATH
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(base_dir)
-
 from config import base_dir  # Import the base directory
 
 def clean_text(text):
