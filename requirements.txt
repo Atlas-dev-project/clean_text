@@ -1,0 +1,7 @@
+elevenlabs==1.2.2
+fr-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_lg-3.7.0/fr_core_news_lg-3.7.0-py3-none-any.whl#sha256=c2d98eb9073ff0f3d865179448e7f1868f27b2643c0e7215acc2438cd9eae554
+pdfplumber==0.9.0
+spacy==3.7.5
+openai==0.28.0
+regex==2024.5.15
+num2words==0.5.13
