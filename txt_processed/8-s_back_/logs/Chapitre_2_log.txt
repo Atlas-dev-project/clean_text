@@ -1,0 +1,4 @@
+File: Chapitre_2.txt
+Replaced: #@% with 's'
+Replaced: #@% with 's'
+

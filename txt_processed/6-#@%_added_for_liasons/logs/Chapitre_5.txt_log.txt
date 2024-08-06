@@ -1,0 +1,21 @@
+File: Chapitre_5.txt
+
+quelques - étoiles replaced by #@%
+mètres - afin replaced by #@%
+est - apparu replaced by é't
+séparés - alors replaced by #@%
+est - ouverte replaced by é't
+
+Replacement counts:
+é'tun: 0
+ét'une: 0
+é't: 2
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 3
+ils#@%: 0
+elles#@%: 0

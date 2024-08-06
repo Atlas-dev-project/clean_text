@@ -1,0 +1,22 @@
+File: Chapitre_15.txt
+Removed hyphen in: person- -> person
+Removed hyphen in: cher- -> cher
+Removed hyphen in: impeccable- -> impeccable
+Removed hyphen in: trou- -> trou
+Removed hyphen in: monu- -> monu
+Removed hyphen in: bles- -> bles
+Removed hyphen in: mou- -> mou
+Removed hyphen in: extrater- -> extrater
+Removed hyphen in: Illumi- -> Illumi
+Removed hyphen in: connais- -> connais
+Removed hyphen in: long- -> long
+Removed hyphen in: peu- -> peu
+Removed hyphen in: ter- -> ter
+Removed hyphen in: lan- -> lan
+Removed hyphen in: com- -> com
+Removed hyphen in: interlocu- -> interlocu
+Removed hyphen in: perpé- -> perpé
+Removed hyphen in: déci- -> déci
+Removed hyphen in: précau- -> précau
+Removed hyphen in: éton- -> éton
+

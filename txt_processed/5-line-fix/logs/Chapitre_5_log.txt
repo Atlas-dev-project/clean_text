@@ -1,0 +1,10 @@
+File: Chapitre_5.txt
+Removed hyphen in: irré- -> irré
+Removed hyphen in: flai- -> flai
+Removed hyphen in: déplace- -> déplace
+Removed hyphen in: direc- -> direc
+Removed hyphen in: remé- -> remé
+Removed hyphen in: Ludo- -> Ludo
+Removed hyphen in: silencieuse- -> silencieuse
+Removed hyphen in: délica- -> délica
+

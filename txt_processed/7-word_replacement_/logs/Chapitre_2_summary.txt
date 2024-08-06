@@ -1,0 +1,12 @@
+Original file: Chapitre_2.txt
+
+Replaced words:
+auraient -> aurait (replaced 1 times)
+avaient -> avait (replaced 1 times)
+documentée -> documenté (replaced 1 times)
+idée -> idé (replaced 6 times)
+arguments -> argument (replaced 1 times)
+esclaffent -> esclaffe (replaced 1 times)
+est -> es (replaced 10 times)
+ils -> il (replaced 5 times)
+cette -> cet (replaced 1 times)

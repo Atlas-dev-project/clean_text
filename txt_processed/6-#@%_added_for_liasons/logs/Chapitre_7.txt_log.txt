@@ -1,0 +1,52 @@
+File: Chapitre_7.txt
+
+plusieurs - images replaced by #@%
+ils - ont replaced by il#@%
+ils - apparaissent replaced by il#@%
+nouvelles - images replaced by #@%
+est - impressionné replaced by é't
+est - alors replaced by é't
+est - apparue replaced by é't
+est - apparu replaced by é't
+quelques - indications replaced by #@%
+indications - écrites replaced by #@%
+trois - amis replaced by #@%
+Ils - entreprennent replaced by #@%
+ils - aperçoivent replaced by il#@%
+mètres - au-dessus replaced by #@%
+est - assez replaced by é't
+bonnes - images replaced by #@%
+voudrais - avoir replaced by #@%
+est - aussi replaced by é't
+ils - auraient replaced by il#@%
+photos - est replaced by #@%
+toutefois - assez replaced by #@%
+grands - efforts replaced by #@%
+est - abasourdie replaced by é't
+est - intacte replaced by é't
+est - une replaced by ét'une
+dois - absolument replaced by #@%
+ils - avancent replaced by il#@%
+plusieurs - années replaced by #@%
+symboles - extraterrestres replaced by #@%
+codes - illuminati replaced by #@%
+vilains - acouphènes replaced by #@%
+chaises - alignées replaced by #@%
+compas - avant replaced by #@%
+cercles - étranges replaced by #@%
+garçons - alertés replaced by #@%
+est - étendue replaced by é't
+
+Replacement counts:
+é'tun: 0
+ét'une: 1
+é't: 9
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 21
+ils#@%: 5
+elles#@%: 0

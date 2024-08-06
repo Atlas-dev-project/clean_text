@@ -1,0 +1,21 @@
+Original file: Chapitre_12.txt
+
+Replaced words:
+année -> anné (replaced 1 times)
+enfoncée -> enfoncé (replaced 1 times)
+enlevée -> enlevé (replaced 1 times)
+entrée -> entré (replaced 1 times)
+commencée -> commencé (replaced 1 times)
+relevées -> relevés (replaced 1 times)
+larges -> large (replaced 1 times)
+indifférents -> indifférent (replaced 1 times)
+parents -> parent (replaced 2 times)
+restée -> resté (replaced 1 times)
+est-ce -> es ce (replaced 1 times)
+est -> es (replaced 13 times)
+fois -> foi (replaced 2 times)
+elles -> elle (replaced 4 times)
+ils -> il (replaced 6 times)
+cette -> cet (replaced 2 times)
+les yeux -> lé zieu (replaced 1 times)
+silencieux -> silencieu (replaced 1 times)

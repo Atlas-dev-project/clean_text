@@ -1,0 +1,23 @@
+File: Chapitre_12.txt
+Removed hyphen in: science- -> science
+Removed hyphen in: pan- -> pan
+Removed hyphen in: révéla- -> révéla
+Removed hyphen in: nom- -> nom
+Removed hyphen in: diffé- -> diffé
+Removed hyphen in: conti- -> conti
+Removed hyphen in: impérati- -> impérati
+Removed hyphen in: pos- -> pos
+Removed hyphen in: mani- -> mani
+Removed hyphen in: jail- -> jail
+Removed hyphen in: créa- -> créa
+Removed hyphen in: pay- -> pay
+Removed hyphen in: apeu- -> apeu
+Removed hyphen in: extra- -> extra
+Removed hyphen in: inté- -> inté
+Removed hyphen in: extrater- -> extrater
+Removed hyphen in: abrup- -> abrup
+Removed hyphen in: accompa- -> accompa
+Removed hyphen in: repous- -> repous
+Removed hyphen in: dispa- -> dispa
+Merged: est Michaël
+

@@ -1,0 +1,23 @@
+Original file: Chapitre_14.txt
+
+Replaced words:
+faibles -> faible (replaced 1 times)
+troncs -> tronc (replaced 1 times)
+bée -> bé (replaced 1 times)
+durée -> duré (replaced 1 times)
+entrée -> entré (replaced 1 times)
+idée -> idé (replaced 2 times)
+journée -> journé (replaced 1 times)
+limitée -> limité (replaced 1 times)
+menée -> mené (replaced 1 times)
+captée -> capté (replaced 1 times)
+filmée -> filmé (replaced 1 times)
+nausées -> nausés (replaced 1 times)
+pensée -> pensé (replaced 1 times)
+vitrées -> vitrés (replaced 1 times)
+protocoles -> protocole (replaced 1 times)
+pouffent -> pouffe (replaced 1 times)
+est -> es (replaced 16 times)
+elles -> elle (replaced 1 times)
+ils -> il (replaced 7 times)
+cette -> cet (replaced 1 times)

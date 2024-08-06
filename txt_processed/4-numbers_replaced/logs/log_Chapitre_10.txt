@@ -1,0 +1,7 @@
+10: dix
+8: huit
+17: dix-sept
+1: un
+2: deux
+10: dix
+4: quatre

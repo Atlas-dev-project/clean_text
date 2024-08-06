@@ -1,0 +1,8 @@
+File: Chapitre_16.txt
+Removed hyphen in: conversa- -> conversa
+Removed hyphen in: télé- -> télé
+Removed hyphen in: illus- -> illus
+Removed hyphen in: collection- -> collection
+Merged: avec Michaël
+Merged: auteur Guillaume
+

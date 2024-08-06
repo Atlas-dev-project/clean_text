@@ -1,0 +1,13 @@
+File: Chapitre_2.txt
+Removed hyphen in: Illu- -> Illu
+Removed hyphen in: pous- -> pous
+Removed hyphen in: auto- -> auto
+Removed hyphen in: particu- -> particu
+Removed hyphen in: docu- -> docu
+Removed hyphen in: quar- -> quar
+Removed hyphen in: com- -> com
+Removed hyphen in: ter- -> ter
+Removed hyphen in: discrè- -> discrè
+Merged: fait Victo
+Merged: admet Dimitri
+

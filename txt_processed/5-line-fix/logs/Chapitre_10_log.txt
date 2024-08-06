@@ -1,0 +1,25 @@
+File: Chapitre_10.txt
+Removed hyphen in: télé- -> télé
+Removed hyphen in: nou- -> nou
+Removed hyphen in: distrai- -> distrai
+Removed hyphen in: dis- -> dis
+Removed hyphen in: per- -> per
+Removed hyphen in: dix- -> dix
+Removed hyphen in: bou- -> bou
+Removed hyphen in: sim- -> sim
+Removed hyphen in: por- -> por
+Removed hyphen in: Victo- -> Victo
+Removed hyphen in: cré- -> cré
+Removed hyphen in: der- -> der
+Removed hyphen in: Pytha- -> Pytha
+Removed hyphen in: recon- -> recon
+Removed hyphen in: entre- -> entre
+Removed hyphen in: pre- -> pre
+Removed hyphen in: fait- -> fait
+Removed hyphen in: invo- -> invo
+Removed hyphen in: dis- -> dis
+Removed hyphen in: som- -> som
+Merged: de Michaël
+Merged: dit Julie
+Merged: de Julie
+

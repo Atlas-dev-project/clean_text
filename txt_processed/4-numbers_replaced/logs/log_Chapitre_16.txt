@@ -1,0 +1,49 @@
+16: seize
+17: dix-sept
+28: vingt-huit
+17: dix-sept
+29: vingt-neuf
+1: un
+7: sept
+2: deux
+17: dix-sept
+3: trois
+25: vingt-cinq
+4: quatre
+33: trente-trois
+5: cinq
+43: quarante-trois
+6: six
+49: quarante-neuf
+7: sept
+67: soixante-sept
+8: huit
+79: soixante-dix-neuf
+9: neuf
+95: quatre-vingt-quinze
+10: dix
+117: cent dix-sept
+11: onze
+131: cent trente et un
+12: douze
+145: cent quarante-cinq
+13: treize
+157: cent cinquante-sept
+14: quatorze
+165: cent soixante-cinq
+15: quinze
+175: cent soixante-quinze
+16: seize
+187: cent quatre-vingt-sept
+1985: mille neuf cent quatre-vingt-cinq
+10: dix
+2022: deux mille vingt-deux
+2021: deux mille vingt et un
+100: cent
+2019: deux mille dix-neuf
+100: cent
+2020: deux mille vingt
+100: cent
+2021: deux mille vingt et un
+2017: deux mille dix-sept
+2018: deux mille dix-huit

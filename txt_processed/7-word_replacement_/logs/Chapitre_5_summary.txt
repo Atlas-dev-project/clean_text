@@ -1,0 +1,18 @@
+Original file: Chapitre_5.txt
+
+Replaced words:
+auraient -> aurait (replaced 1 times)
+censée -> censé (replaced 1 times)
+intégrée -> intégré (replaced 1 times)
+journée -> journé (replaced 2 times)
+achetée -> acheté (replaced 1 times)
+déposée -> déposé (replaced 1 times)
+pensée -> pensé (replaced 1 times)
+vêtements -> vêtement (replaced 1 times)
+événements -> événement (replaced 1 times)
+est -> es (replaced 8 times)
+fois -> foi (replaced 1 times)
+jours -> jour (replaced 2 times)
+elles -> elle (replaced 1 times)
+cette -> cet (replaced 3 times)
+les yeux -> lé zieu (replaced 1 times)

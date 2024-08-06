@@ -1,0 +1,17 @@
+Original file: Chapitre_1.txt
+
+Replaced words:
+étaient -> était (replaced 1 times)
+blanc -> blan (replaced 1 times)
+fermée -> fermé (replaced 1 times)
+rouges -> rouge (replaced 1 times)
+parents -> parent (replaced 2 times)
+laissée -> laissé (replaced 1 times)
+immenses -> immense (replaced 1 times)
+est -> es (replaced 5 times)
+fois -> foi (replaced 2 times)
+Saint -> Sain (replaced 1 times)
+ils -> il (replaced 5 times)
+hum -> ummm (replaced 1 times)
+cette -> cet (replaced 3 times)
+Cheveux -> Cheveu (replaced 1 times)

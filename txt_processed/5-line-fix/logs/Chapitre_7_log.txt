@@ -1,0 +1,59 @@
+File: Chapitre_7.txt
+Removed hyphen in: len- -> len
+Removed hyphen in: lors- -> lors
+Removed hyphen in: pho- -> pho
+Removed hyphen in: mon- -> mon
+Removed hyphen in: sou- -> sou
+Removed hyphen in: aco- -> aco
+Removed hyphen in: ras- -> ras
+Removed hyphen in: recon- -> recon
+Removed hyphen in: pâtis- -> pâtis
+Removed hyphen in: ado- -> ado
+Removed hyphen in: clame- -> clame
+Removed hyphen in: scin- -> scin
+Removed hyphen in: convain- -> convain
+Removed hyphen in: tou- -> tou
+Removed hyphen in: com- -> com
+Removed hyphen in: sem- -> sem
+Removed hyphen in: entre- -> entre
+Removed hyphen in: tel- -> tel
+Removed hyphen in: illu- -> illu
+Removed hyphen in: complè- -> complè
+Removed hyphen in: résul- -> résul
+Removed hyphen in: éta- -> éta
+Removed hyphen in: télé- -> télé
+Removed hyphen in: complète- -> complète
+Removed hyphen in: cui- -> cui
+Removed hyphen in: vou- -> vou
+Removed hyphen in: télé- -> télé
+Removed hyphen in: histo- -> histo
+Removed hyphen in: cellu- -> cellu
+Removed hyphen in: mésaven- -> mésaven
+Removed hyphen in: toute- -> toute
+Removed hyphen in: specta- -> specta
+Removed hyphen in: appa- -> appa
+Removed hyphen in: répu- -> répu
+Removed hyphen in: quan- -> quan
+Removed hyphen in: tren- -> tren
+Removed hyphen in: com- -> com
+Removed hyphen in: événe- -> événe
+Removed hyphen in: illumi- -> illumi
+Removed hyphen in: sépa- -> sépa
+Removed hyphen in: compli- -> compli
+Removed hyphen in: change- -> change
+Removed hyphen in: extrater- -> extrater
+Removed hyphen in: appa- -> appa
+Removed hyphen in: ban- -> ban
+Removed hyphen in: bien- -> bien
+Removed hyphen in: insou- -> insou
+Removed hyphen in: ter- -> ter
+Removed hyphen in: Mon- -> Mon
+Removed hyphen in: com- -> com
+Removed hyphen in: per- -> per
+Removed hyphen in: explora- -> explora
+Removed hyphen in: nou- -> nou
+Removed hyphen in: contac- -> contac
+Merged: que Victoria
+Merged: cependant Ludovic
+Merged: répond Dimitri
+

@@ -1,0 +1,20 @@
+File: Chapitre_14.txt
+Removed hyphen in: appa- -> appa
+Removed hyphen in: lec- -> lec
+Removed hyphen in: secrè- -> secrè
+Removed hyphen in: com- -> com
+Removed hyphen in: gué- -> gué
+Removed hyphen in: com- -> com
+Removed hyphen in: interlocu- -> interlocu
+Removed hyphen in: plu- -> plu
+Removed hyphen in: écou- -> écou
+Removed hyphen in: sur- -> sur
+Removed hyphen in: men- -> men
+Removed hyphen in: soula- -> soula
+Removed hyphen in: extrater- -> extrater
+Removed hyphen in: vic- -> vic
+Removed hyphen in: secon- -> secon
+Merged: de Michaël
+Merged: lance Michaël
+Merged: de Dimitri
+

@@ -1,0 +1,35 @@
+File: Chapitre_9.txt
+
+est - arrivée replaced by é't
+est - installé replaced by é't
+est - un replaced by ét'un
+crois - avoir replaced by #@%
+est - arrivé replaced by é't
+sontils - encore replaced by #@%
+longs - attachés replaced by #@%
+dois - absolument replaced by #@%
+est - au replaced by é't
+es - ab replaced by #@%
+est - une replaced by ét'une
+ailleurs - avoir replaced by #@%
+plusieurs - autres replaced by #@%
+personnes - ensuite replaced by #@%
+est - à replaced by é't
+principales - entités replaced by #@%
+ils - ont replaced by il#@%
+volontés - intersidérales replaced by #@%
+est - à replaced by é't
+
+Replacement counts:
+é'tun: 1
+ét'une: 1
+é't: 6
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 10
+ils#@%: 1
+elles#@%: 0

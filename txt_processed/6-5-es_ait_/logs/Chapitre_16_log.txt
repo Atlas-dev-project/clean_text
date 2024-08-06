@@ -1,0 +1,31 @@
+File: /Users/straightup/ebook_processor/txt_processed/6-#@%_added_for_liasons/Chapitre_16.txt
+Total 'es' replacements: 6
+Replacements made for 'es':
+Replaced 'minutes' with 'minute'
+Replaced 'gouttes' with 'goutte'
+Replaced 'ancêtres' with 'ancêtre'
+Replaced 'extraterrestres' with 'extraterrestre'
+Replaced 'étoiles' with 'étoile'
+Replaced 'histoires' with 'histoire'
+
+Total 'er' replacements: 8
+Replacements made for 'er':
+Replaced 'manger' with 'mangé'
+Replaced 'demander' with 'demandé'
+Replaced 'rester' with 'resté'
+Replaced 'souper' with 'soupé'
+Replaced 'filmer' with 'filmé'
+Replaced 'élaborer' with 'élaboré'
+Replaced 'entrer' with 'entré'
+Replaced 'inventer' with 'inventé'
+
+Total 'aient' replacements: 0
+Replacements made for 'aient':
+
+Total 'ent' replacements: 5
+Replacements made for 'ent':
+Replaced 'replongent' with 'replonge'
+Replaced 'dressent' with 'dresse'
+Replaced 'puissent' with 'puisse'
+Replaced 'appellent' with 'appelle'
+Replaced 'pâlissent' with 'pâlisse'

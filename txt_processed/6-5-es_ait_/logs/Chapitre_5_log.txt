@@ -1,0 +1,46 @@
+File: /Users/straightup/ebook_processor/txt_processed/6-#@%_added_for_liasons/Chapitre_5.txt
+Total 'es' replacements: 12
+Replacements made for 'es':
+Replaced 'étoiles' with 'étoile'
+Replaced 'étoiles' with 'étoile'
+Replaced 'nuages' with 'nuage'
+Replaced 'lampadaires' with 'lampadaire'
+Replaced 'pensées' with 'pensée'
+Replaced 'nuages' with 'nuage'
+Replaced 'feuilles' with 'feuille'
+Replaced 'couvertures' with 'couverture'
+Replaced 'lumières' with 'lumière'
+Replaced 'ombres' with 'ombre'
+Replaced 'pétales' with 'pétale'
+Replaced 'roses' with 'rose'
+
+Total 'er' replacements: 17
+Replacements made for 'er':
+Replaced 'éloigner' with 'éloigné'
+Replaced 'capter' with 'capté'
+Replaced 'clouer' with 'cloué'
+Replaced 'chasser' with 'chassé'
+Replaced 'croiser' with 'croisé'
+Replaced 'signaler' with 'signalé'
+Replaced 'flairer' with 'flairé'
+Replaced 'éviter' with 'évité'
+Replaced 'retourner' with 'retourné'
+Replaced 'pivoter' with 'pivoté'
+Replaced 'retourner' with 'retourné'
+Replaced 'danser' with 'dansé'
+Replaced 'arrêter' with 'arrêté'
+Replaced 'retourner' with 'retourné'
+Replaced 'changer' with 'changé'
+Replaced 'attirer' with 'attiré'
+Replaced 'pivoter' with 'pivoté'
+
+Total 'aient' replacements: 0
+Replacements made for 'aient':
+
+Total 'ent' replacements: 5
+Replacements made for 'ent':
+Replaced 'pâlissent' with 'pâlisse'
+Replaced 'brillent' with 'brille'
+Replaced 'passent' with 'passe'
+Replaced 'confirment' with 'confirme'
+Replaced 'déplacent' with 'déplace'

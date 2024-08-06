@@ -1,0 +1,24 @@
+File: Chapitre_14.txt
+
+est - un replaced by ét'un
+est - une replaced by ét'une
+est - interdit replaced by é't
+énergies - ailleurs replaced by #@%
+est - en replaced by é't
+Elles - avancent replaced by #@%
+est - un replaced by ét'un
+est - incroyable replaced by é't
+
+Replacement counts:
+é'tun: 2
+ét'une: 1
+é't: 3
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 2
+ils#@%: 0
+elles#@%: 0

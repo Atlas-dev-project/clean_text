@@ -1,0 +1,27 @@
+File: Chapitre_3.txt
+Removed hyphen in: phé- -> phé
+Removed hyphen in: pro- -> pro
+Removed hyphen in: plas- -> plas
+Removed hyphen in: hors- -> hors
+Removed hyphen in: sem- -> sem
+Removed hyphen in: élé- -> élé
+Removed hyphen in: conser- -> conser
+Removed hyphen in: tour- -> tour
+Removed hyphen in: ven- -> ven
+Removed hyphen in: pour- -> pour
+Removed hyphen in: Arri- -> Arri
+Removed hyphen in: dévi- -> dévi
+Removed hyphen in: vête- -> vête
+Removed hyphen in: auto- -> auto
+Removed hyphen in: sur- -> sur
+Removed hyphen in: extrater- -> extrater
+Removed hyphen in: dispa- -> dispa
+Removed hyphen in: Dol- -> Dol
+Removed hyphen in: cou- -> cou
+Removed hyphen in: mala- -> mala
+Removed hyphen in: extra- -> extra
+Removed hyphen in: sou- -> sou
+Removed hyphen in: trou- -> trou
+Merged: demande Julie
+Merged: de Mars
+

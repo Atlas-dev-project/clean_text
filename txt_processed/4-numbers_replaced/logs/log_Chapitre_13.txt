@@ -1,0 +1,9 @@
+13: treize
+20: vingt
+37: trente-sept
+21: vingt et un
+47: quarante-sept
+1: un
+52: cinquante-deux
+21: vingt et un
+58: cinquante-huit

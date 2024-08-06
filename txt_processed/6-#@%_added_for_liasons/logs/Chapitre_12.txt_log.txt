@@ -1,0 +1,30 @@
+File: Chapitre_12.txt
+
+nombreuses - années replaced by #@%
+attendons - encore replaced by #@%
+est - apparu replaced by é't
+torches - éclairant replaced by #@%
+derniers - arbres replaced by #@%
+créatures - étranges replaced by #@%
+étranges - émergent replaced by #@%
+vers - eux replaced by #@%
+est - alors replaced by é't
+est - apparu replaced by é't
+cours - aucun replaced by #@%
+est - arrêté replaced by é't
+quelques - instants replaced by #@%
+est - alors replaced by é't
+
+Replacement counts:
+é'tun: 0
+ét'une: 0
+é't: 5
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 9
+ils#@%: 0
+elles#@%: 0

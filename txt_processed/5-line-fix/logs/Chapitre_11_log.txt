@@ -1,0 +1,24 @@
+File: Chapitre_11.txt
+Removed hyphen in: pro- -> pro
+Removed hyphen in: rapide- -> rapide
+Removed hyphen in: créa- -> créa
+Removed hyphen in: littérale- -> littérale
+Removed hyphen in: difficile- -> difficile
+Removed hyphen in: émer- -> émer
+Removed hyphen in: histo- -> histo
+Removed hyphen in: lors- -> lors
+Removed hyphen in: pré- -> pré
+Removed hyphen in: défor- -> défor
+Removed hyphen in: discrè- -> discrè
+Removed hyphen in: extra- -> extra
+Removed hyphen in: contac- -> contac
+Removed hyphen in: extra- -> extra
+Removed hyphen in: ado- -> ado
+Removed hyphen in: com- -> com
+Removed hyphen in: Victo- -> Victo
+Removed hyphen in: ensan- -> ensan
+Removed hyphen in: pre- -> pre
+Removed hyphen in: emme- -> emme
+Removed hyphen in: contami- -> contami
+Merged: regardant Michaël
+

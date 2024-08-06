@@ -1,0 +1,182 @@
+Added markers to title: Chapitre 1 Sous les projecteurs, Occurrences: 1
+Added markers to title: Chapitre 2 Au printemps comme en hiver, Occurrences: 1
+Added markers to title: Chapitre 3 Quand ça tourne... au vinaigre, Occurrences: 1
+Title not found in text: Chapitre 4 Le compas dans l'oeil
+Added markers to title: Chapitre 5 Les étoiles qui pâlissent, Occurrences: 1
+Added markers to title: Chapitre 6 Là où on ne les attendait pas, Occurrences: 1
+Added markers to title: Chapitre 7 L'apparition, Occurrences: 1
+Title not found in text: Chapitre 8 L'oeil aveugle
+Added markers to title: Chapitre 9 Rencontres au zénith, Occurrences: 1
+Added markers to title: Chapitre 10 Jour de repos, Occurrences: 1
+Added markers to title: Chapitre 11 Erreur sur la ligne, Occurrences: 1
+Added markers to title: Chapitre 12 Révélations, Occurrences: 1
+Added markers to title: Chapitre 13 Les plans secrets, Occurrences: 1
+Added markers to title: Chapitre 14 Retour à l'école, Occurrences: 1
+Added markers to title: Chapitre 15 Retrouvailles au sommet, Occurrences: 1
+Added markers to title: Chapitre 16 La convocation, Occurrences: 1
+Removed number: 7
+Removed number: 8
+Removed number: 9
+Removed number: 10
+Removed number: 11
+Removed number: 12
+Removed number: 13
+Removed number: 14
+Removed number: 17
+Removed number: 18
+Removed number: 19
+Removed number: 20
+Removed number: 21
+Removed number: 22
+Removed number: 23
+Removed number: 25
+Removed number: 26
+Removed number: 27
+Removed number: 28
+Removed number: 29
+Removed number: 30
+Removed number: 33
+Removed number: 34
+Removed number: 35
+Removed number: 36
+Removed number: 37
+Removed number: 38
+Removed number: 39
+Removed number: 40
+Removed number: 41
+Removed number: 43
+Removed number: 44
+Removed number: 45
+Removed number: 46
+Removed number: 47
+Removed number: 49
+Removed number: 50
+Removed number: 51
+Removed number: 52
+Removed number: 53
+Removed number: 54
+Removed number: 55
+Removed number: 56
+Removed number: 57
+Removed number: 58
+Removed number: 59
+Removed number: 60
+Removed number: 61
+Removed number: 62
+Removed number: 63
+Removed number: 64
+Removed number: 65
+Removed number: 67
+Removed number: 68
+Removed number: 69
+Removed number: 70
+Removed number: 71
+Removed number: 72
+Removed number: 73
+Removed number: 74
+Removed number: 75
+Removed number: 76
+Removed number: 77
+Removed number: 79
+Removed number: 80
+Removed number: 81
+Removed number: 82
+Removed number: 83
+Removed number: 84
+Removed number: 85
+Removed number: 86
+Removed number: 87
+Removed number: 88
+Removed number: 89
+Removed number: 90
+Removed number: 91
+Removed number: 92
+Removed number: 93
+Removed number: 95
+Removed number: 96
+Removed number: 97
+Removed number: 98
+Removed number: 99
+Removed number: 100
+Removed number: 101
+Removed number: 102
+Removed number: 103
+Removed number: 104
+Removed number: 105
+Removed number: 106
+Removed number: 107
+Removed number: 108
+Removed number: 109
+Removed number: 110
+Removed number: 111
+Removed number: 112
+Removed number: 113
+Removed number: 114
+Removed number: 115
+Removed number: 117
+Removed number: 118
+Removed number: 119
+Removed number: 120
+Removed number: 121
+Removed number: 122
+Removed number: 123
+Removed number: 124
+Removed number: 125
+Removed number: 126
+Removed number: 127
+Removed number: 128
+Removed number: 129
+Removed number: 131
+Removed number: 132
+Removed number: 133
+Removed number: 134
+Removed number: 135
+Removed number: 136
+Removed number: 137
+Removed number: 138
+Removed number: 139
+Removed number: 140
+Removed number: 141
+Removed number: 142
+Removed number: 145
+Removed number: 146
+Removed number: 147
+Removed number: 148
+Removed number: 149
+Removed number: 150
+Removed number: 151
+Removed number: 152
+Removed number: 153
+Removed number: 154
+Removed number: 157
+Removed number: 158
+Removed number: 159
+Removed number: 160
+Removed number: 161
+Removed number: 162
+Removed number: 165
+Removed number: 166
+Removed number: 167
+Removed number: 168
+Removed number: 169
+Removed number: 170
+Removed number: 171
+Removed number: 172
+Removed number: 173
+Removed number: 175
+Removed number: 176
+Removed number: 177
+Removed number: 178
+Removed number: 179
+Removed number: 180
+Removed number: 181
+Removed number: 182
+Removed number: 183
+Removed number: 184
+Removed number: 187
+Removed number: 188
+Removed number: 189
+Removed number: 190
+Removed number: 2019
+Removed phrase: Le danger d’y croire
+Removed phrase: Les Illuminés

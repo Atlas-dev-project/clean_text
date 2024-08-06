@@ -1,0 +1,22 @@
+File: Chapitre_1.txt
+Removed hyphen in: complète- -> complète
+Removed hyphen in: dif- -> dif
+Removed hyphen in: che- -> che
+Removed hyphen in: créa- -> créa
+Removed hyphen in: sti- -> sti
+Removed hyphen in: acces- -> acces
+Removed hyphen in: tech- -> tech
+Removed hyphen in: der- -> der
+Removed hyphen in: voi- -> voi
+Removed hyphen in: respec- -> respec
+Removed hyphen in: Victo- -> Victo
+Removed hyphen in: dis- -> dis
+Removed hyphen in: mai- -> mai
+Merged: observe Michaël
+Merged: demande Michaël
+Merged: de Victoria
+Merged: accompagner Julie
+Merged: que Victoria
+Merged: dit Julie
+Merged: de Dimitri
+

@@ -1,0 +1,25 @@
+File: Chapitre_1.txt
+
+garçons - établissent replaced by #@%
+êtres - étranges replaced by #@%
+Ils - élèvent replaced by #@%
+menaçantes - au-dessus replaced by #@%
+garçons - afin replaced by #@%
+est - un replaced by ét'un
+vidéos - étaient replaced by #@%
+printemps - hâtif replaced by #@%
+est - inquiète replaced by é't
+
+Replacement counts:
+é'tun: 1
+ét'une: 0
+é't: 1
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 7
+ils#@%: 0
+elles#@%: 0

@@ -1,0 +1,19 @@
+File: /Users/straightup/ebook_processor/txt_processed/6-#@%_added_for_liasons/Chapitre_13.txt
+Total 'es' replacements: 4
+Replacements made for 'es':
+Replaced 'blessures' with 'blessure'
+Replaced 'extraterrestres' with 'extraterrestre'
+Replaced 'membres' with 'membre'
+Replaced 'vues' with 'vue'
+
+Total 'er' replacements: 2
+Replacements made for 'er':
+Replaced 'former' with 'formé'
+Replaced 'publier' with 'publié'
+
+Total 'aient' replacements: 0
+Replacements made for 'aient':
+
+Total 'ent' replacements: 1
+Replacements made for 'ent':
+Replaced 'lâchent' with 'lâche'

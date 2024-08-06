@@ -1,0 +1,50 @@
+File: Chapitre_9.txt
+Removed hyphen in: encoura- -> encoura
+Removed hyphen in: éga- -> éga
+Removed hyphen in: Repti- -> Repti
+Removed hyphen in: dis- -> dis
+Removed hyphen in: cou- -> cou
+Removed hyphen in: contac- -> contac
+Removed hyphen in: discu- -> discu
+Removed hyphen in: tou- -> tou
+Removed hyphen in: après- -> après
+Removed hyphen in: sont- -> sont
+Removed hyphen in: situa- -> situa
+Removed hyphen in: quar- -> quar
+Removed hyphen in: gar- -> gar
+Removed hyphen in: bunga- -> bunga
+Removed hyphen in: Mon- -> Mon
+Removed hyphen in: pré- -> pré
+Removed hyphen in: lais- -> lais
+Removed hyphen in: nou- -> nou
+Removed hyphen in: exté- -> exté
+Removed hyphen in: mai- -> mai
+Removed hyphen in: com- -> com
+Removed hyphen in: Dimi- -> Dimi
+Removed hyphen in: cou- -> cou
+Removed hyphen in: der- -> der
+Removed hyphen in: déli- -> déli
+Removed hyphen in: contac- -> contac
+Removed hyphen in: per- -> per
+Removed hyphen in: limo- -> limo
+Removed hyphen in: mémori- -> mémori
+Removed hyphen in: pré- -> pré
+Removed hyphen in: cou- -> cou
+Removed hyphen in: princi- -> princi
+Removed hyphen in: extrater- -> extrater
+Removed hyphen in: Phi- -> Phi
+Removed hyphen in: Sébas- -> Sébas
+Removed hyphen in: per- -> per
+Removed hyphen in: pronon- -> pronon
+Removed hyphen in: rajou- -> rajou
+Removed hyphen in: timide- -> timide
+Removed hyphen in: noc- -> noc
+Removed hyphen in: vrai- -> vrai
+Merged: aider Dimitri
+Merged: simplement Michaël
+Merged: monsieur Brody
+Merged: monsieur Brody
+Merged: à Julie
+Merged: de Michaël
+Merged: à Julie
+

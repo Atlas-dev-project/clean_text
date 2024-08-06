@@ -1,0 +1,31 @@
+File: Chapitre_3.txt
+
+est - un replaced by ét'un
+ils - ont replaced by il#@%
+ils - ont replaced by il#@%
+personnages - est replaced by #@%
+est - éteint replaced by é't
+est - éteint replaced by é't
+ils - entrent replaced by il#@%
+prises - est replaced by #@%
+ils - avaient replaced by il#@%
+remarques - entre replaced by #@%
+Plusieurs - élèves replaced by #@%
+ils - avancent replaced by il#@%
+voulais - avoir replaced by #@%
+est - interdit replaced by é't
+autres - affiches replaced by #@%
+
+Replacement counts:
+é'tun: 1
+ét'une: 0
+é't: 3
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 6
+ils#@%: 5
+elles#@%: 0

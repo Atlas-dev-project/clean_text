@@ -1,0 +1,17 @@
+Original file: Chapitre_16.txt
+
+Replaced words:
+année -> anné (replaced 1 times)
+connectée -> connecté (replaced 1 times)
+dangers -> danger (replaced 3 times)
+parents -> parent (replaced 1 times)
+est -> es (replaced 7 times)
+vingt et un -> vinté'un (replaced 2 times)
+vingt-deux -> vint'deux (replaced 1 times)
+trente et un -> trenté'un (replaced 1 times)
+quatre-vingt-cinq -> quatre-vint-cinq (replaced 1 times)
+quatre-vingt-sept -> quatre-vint-sept (replaced 1 times)
+quatre-vingt-quinze -> quatre-vint-quinze (replaced 1 times)
+fois -> foi (replaced 2 times)
+Saint -> Sain (replaced 1 times)
+ils -> il (replaced 3 times)

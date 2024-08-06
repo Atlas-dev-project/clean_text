@@ -1,0 +1,10 @@
+Original file: Chapitre_13.txt
+
+Replaced words:
+idée -> idé (replaced 1 times)
+est-il -> é'til (replaced 1 times)
+est -> es (replaced 5 times)
+vingt et un -> vinté'un (replaced 2 times)
+ils -> il (replaced 2 times)
+Voyons -> Voyon (replaced 1 times)
+cette -> cet (replaced 1 times)

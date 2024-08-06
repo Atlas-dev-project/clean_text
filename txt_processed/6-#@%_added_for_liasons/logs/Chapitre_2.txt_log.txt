@@ -1,0 +1,20 @@
+File: Chapitre_2.txt
+
+meilleurs - influenceurs replaced by #@%
+avais - encore replaced by #@%
+est - une replaced by ét'une
+est - écoulé replaced by é't
+
+Replacement counts:
+é'tun: 0
+ét'une: 1
+é't: 1
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 2
+ils#@%: 0
+elles#@%: 0

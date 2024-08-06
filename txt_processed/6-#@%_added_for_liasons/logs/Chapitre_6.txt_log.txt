@@ -1,0 +1,40 @@
+File: Chapitre_6.txt
+
+est - effondré replaced by é't
+plusieurs - élèves replaced by #@%
+Ils - attendent replaced by #@%
+tous - ensemble replaced by #@%
+ils - ont replaced by il#@%
+ils - auront replaced by il#@%
+ils - en replaced by il#@%
+notes - identifié replaced by #@%
+trois - amis replaced by #@%
+amis - attendent replaced by #@%
+photos - imprimées replaced by #@%
+est - au replaced by é't
+est - un replaced by ét'un
+Ils - atteignent replaced by #@%
+Ils - aperçoivent replaced by #@%
+Ils - enjambent replaced by #@%
+Ils - avancent replaced by #@%
+trois - autres replaced by #@%
+est - une replaced by ét'une
+iris - émerge replaced by #@%
+est - ainsi replaced by é't
+meilleurs - équipements replaced by #@%
+premières - étoiles replaced by #@%
+herbes - aplaties replaced by #@%
+
+Replacement counts:
+é'tun: 1
+ét'une: 1
+é't: 3
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 16
+ils#@%: 3
+elles#@%: 0

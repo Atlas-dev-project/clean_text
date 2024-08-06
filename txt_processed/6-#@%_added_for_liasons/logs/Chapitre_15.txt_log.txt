@@ -1,0 +1,27 @@
+File: Chapitre_15.txt
+
+installations - autour replaced by #@%
+radiations - auraient replaced by #@%
+est - une replaced by ét'une
+est - à replaced by é't
+alors - imposés replaced by #@%
+cents - ans replaced by #@%
+alors - été replaced by #@%
+Certains - extraterrestres replaced by #@%
+est - alors replaced by é't
+est - une replaced by ét'une
+êtes - extraterrestre replaced by #@%
+
+Replacement counts:
+é'tun: 0
+ét'une: 2
+é't: 2
+cét'un: 0
+cét'une: 0
+cé't: 0
+n'ét'un: 0
+n'ét'une: 0
+né't: 0
+#@%: 7
+ils#@%: 0
+elles#@%: 0

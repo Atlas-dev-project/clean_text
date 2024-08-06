@@ -1,0 +1,41 @@
+File: Chapitre_6.txt
+Removed hyphen in: cau- -> cau
+Removed hyphen in: oublie- -> oublie
+Removed hyphen in: cho- -> cho
+Removed hyphen in: rencon- -> rencon
+Removed hyphen in: phé- -> phé
+Removed hyphen in: sco- -> sco
+Removed hyphen in: fai- -> fai
+Removed hyphen in: nou- -> nou
+Removed hyphen in: sur- -> sur
+Removed hyphen in: Illumi- -> Illumi
+Removed hyphen in: mon- -> mon
+Removed hyphen in: décou- -> décou
+Removed hyphen in: répond- -> répond
+Removed hyphen in: réconcilia- -> réconcilia
+Removed hyphen in: Vic- -> Vic
+Removed hyphen in: mon- -> mon
+Removed hyphen in: dis- -> dis
+Removed hyphen in: obser- -> obser
+Removed hyphen in: res- -> res
+Removed hyphen in: pau- -> pau
+Removed hyphen in: sou- -> sou
+Removed hyphen in: bien- -> bien
+Removed hyphen in: techno- -> techno
+Removed hyphen in: équi- -> équi
+Removed hyphen in: décou- -> décou
+Removed hyphen in: poli- -> poli
+Removed hyphen in: sym- -> sym
+Removed hyphen in: scru- -> scru
+Removed hyphen in: particulière- -> particulière
+Removed hyphen in: juge- -> juge
+Removed hyphen in: pen- -> pen
+Merged: pour Dimitri
+Merged: de Dimitri
+Merged: de Michaël
+Merged: lance Julie
+Merged: réplique Victoria
+Merged: dit Michaël
+Merged: complète Michaël
+Merged: exclame Dimitri
+
